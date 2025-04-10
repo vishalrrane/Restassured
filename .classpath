@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/features/org.testng.eclipse.maven.feature_7.11.0.202503091801.jar"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/features/org.testng.eclipse_7.11.0.202503091801.jar"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/features/org.testng.p2.feature_7.11.0.r202503091654.jar"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/plugins/com.beust.jcommander.source_1.83.0.jar"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/plugins/com.beust.jcommander_1.83.0.jar"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/plugins/com.google.guava_27.1.0.v20190517-1946.jar"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/plugins/com.google.guava_30.1.0.v20221112-0806.jar"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/plugins/com.google.guava_32.1.2.jre.jar"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/plugins/org.testng.eclipse.maven_7.11.0.202503091801.jar"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/plugins/org.testng.eclipse_7.11.0.202503091801.jar"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/plugins/org.testng.source_7.11.0.r202503091654.jar"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/plugins/org.testng_7.11.0.r202503091654.jar"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/plugins/org.webjars.jquery.source_3.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/plugins/org.webjars.jquery_3.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/plugins/org.yaml.snakeyaml.source_2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/plugins/org.yaml.snakeyaml_2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/artifacts.jar"/>
+	<classpathentry kind="lib" path="D:/org.testng.eclipse.updatesite/content.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
